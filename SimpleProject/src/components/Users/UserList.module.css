@@ -1,0 +1,11 @@
+.list{
+    margin: auto;
+    padding: 10px;
+    width: 84%;
+    margin-top: 20px;
+}
+
+.list p{
+    border: 2px solid;
+    padding: 10px;
+}
